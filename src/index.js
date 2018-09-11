@@ -8,11 +8,8 @@ import utils from './utils';
 
 class CombinedOrderBooks extends React.Component {
 
-//  baseUrl = 'http://54.187.105.135:3001'
   baseUrl = 'http://localhost:3001'
-szdfasdfdsadfsasfd
-  
-  // TODO write the readme and change ip address above
+
   constructor(props) {
     super(props)
     this.state = {
